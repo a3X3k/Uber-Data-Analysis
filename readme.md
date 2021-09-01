@@ -1,6 +1,6 @@
 # Data Science Project
 
-# Team Members
+## Team Members
  - S Abhishek
  - Harsha Sathish
  - Navneeth Kumar Singh
