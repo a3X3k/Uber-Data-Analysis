@@ -10,5 +10,5 @@
 
 ## Links to Refer
 
-- [https://www.mktr.ai/applications-and-methods-in-data-science-customer-segmentation/](Link 1)
-- [https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Mall%20Customer%20Segmentation](Link 2)
+- [Link 1](https://www.mktr.ai/applications-and-methods-in-data-science-customer-segmentation/)
+- [Link 2](https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Mall%20Customer%20Segmentation)
