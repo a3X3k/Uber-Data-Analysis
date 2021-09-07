@@ -46,9 +46,9 @@
   
 ## Progress
 
-| To Do           | Brief | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
+| To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|
-| Data | Find the Data for Report |  |  |  |  |  |
+| Data | Find the Data for Report | Thursday - 09/09/21 |  |  |  |  |  |
 
   
 </div>
