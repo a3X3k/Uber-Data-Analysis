@@ -1,15 +1,33 @@
-# Data Science Project
+<div align = "center">
 
-## Team Members
- - S Abhishek
- - Harsha Sathish
- - Navneeth Kumar Singh
- - Arvind Kumar K
- - Bikash Chandra
+# [Exploratory Data Analysis on Uber Pickups](#)
 
+### Team Members
 
-## Links to Refer
+| Name           |
+|----------------|
+| Harsha Sathish   |
+| Navneet Kumar    |
+| Arvind Kumar    | 
+| Abhishek   |
+  
+  
+<br/>
+  
+## Reference Links
 
-- [Link 1](https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Mall%20Customer%20Segmentation)
-- [Link 2](https://www.mktr.ai/applications-and-methods-in-data-science-customer-segmentation/)
-- [Link 3](https://www.mktr.ai/how-to-ignite-growth-with-customer-segmentation/)
+| Name           | Link |
+|----------------|---------------|
+|    | []() |
+  
+  
+<br/>
+  
+## Data Set Links
+
+| Name           | Link |
+|----------------|---------------|
+|  Kaggle   | [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/download) |
+  
+</div>
+
