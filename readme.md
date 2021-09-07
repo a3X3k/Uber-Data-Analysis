@@ -44,7 +44,7 @@
   
 <br/>
   
-## Progress
+## :x: :heavy_check_mark: Progress :heavy_check_mark: :x: 
 
 | To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|
