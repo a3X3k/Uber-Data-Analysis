@@ -28,11 +28,7 @@
 | 8 | [GitHub](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) |
 | 9 | [GitHub](https://github.com/prashantwitty/Uber-Trip-Data-Analysis) |
 | 10 | [GitHub](https://github.com/VismayTandel/UberDataAnalysis) |
-| 11 | [GitHub](https://github.com/CrimsonSaber/Uber-DataAnalysis/) | 
-| 12 | []() |
-| 13 | []() |
-| 14 | []() |
-| 15 | []() |   
+| 11 | [GitHub](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
   
 <br/>
   
@@ -48,7 +44,7 @@
 
 | To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|
-| Data | Find the Data for Report | Thursday - 09/09/21 |  |  |  |  |  |
+| Data | Find the Data for Report | Thursday - 14/09/21 |  |  |  |  |  |
 
   
 </div>
