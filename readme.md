@@ -29,16 +29,16 @@
 | 9 | [Code 2](https://github.com/prashantwitty/Uber-Trip-Data-Analysis) |
 | 10 | [Code 3](https://github.com/VismayTandel/UberDataAnalysis) |
 | 11 | [Code 4](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
-| 12 |  |
-| 13 |  |
-| 14 |  |
-| 15 |  |  
-| 16 |  |
-| 17 |  |
-| 18 |  |
-| 19 |  |
-| 20 |  |  
-| 21 |  |
+| 12 | [Medium](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) |
+| 13 | []() |
+| 14 | []() |
+| 15 | []() |  
+| 16 | []() |
+| 17 | []() |
+| 18 | []() |
+| 19 | []() |
+| 20 | []() |  
+| 21 | []() |
   
 <br/>
   
