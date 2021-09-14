@@ -54,7 +54,7 @@
 
 | To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|
-| Data | Find the Data for Report | 14/09/21 |  |  |  |  |  |
+| Data | Find the Data for Report | 14/09/21 |  |  |  |  | :heavy_check_mark: - 6
 
   
 </div>
