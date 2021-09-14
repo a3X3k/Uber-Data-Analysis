@@ -30,7 +30,6 @@
   
 | Name           | Link |
 |----------------|---------------|
-  
 | 1 | [R Implementation](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
 | 2 | [R + Python](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
 | 3 | [Word Press](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
