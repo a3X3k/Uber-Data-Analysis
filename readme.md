@@ -25,10 +25,10 @@
 | 5 | [R Implementation](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
 | 6 | [R + Python](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
 | 7 | [Word Press](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
-| 8 | [GitHub](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) |
-| 9 | [GitHub](https://github.com/prashantwitty/Uber-Trip-Data-Analysis) |
-| 10 | [GitHub](https://github.com/VismayTandel/UberDataAnalysis) |
-| 11 | [GitHub](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
+| 8 | [Code 1](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) |
+| 9 | [Code 2](https://github.com/prashantwitty/Uber-Trip-Data-Analysis) |
+| 10 | [Code 3](https://github.com/VismayTandel/UberDataAnalysis) |
+| 11 | [Code 4](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
 | 12 |  |
 | 13 |  |
 | 14 |  |
