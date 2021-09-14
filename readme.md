@@ -29,16 +29,16 @@
 | 9 | [GitHub](https://github.com/prashantwitty/Uber-Trip-Data-Analysis) |
 | 10 | [GitHub](https://github.com/VismayTandel/UberDataAnalysis) |
 | 11 | [GitHub](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
-|    |  |
-|    |  |
-|    |  |
-|    |  |  
-|    |  |
-|    |  |
-|    |  |
-|    |  |
-|    |  |  
-|    |  |
+| 12 |  |
+| 13 |  |
+| 14 |  |
+| 15 |  |  
+| 16 |  |
+| 17 |  |
+| 18 |  |
+| 19 |  |
+| 20 |  |  
+| 21 |  |
   
 <br/>
   
