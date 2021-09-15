@@ -21,7 +21,7 @@
 |----------------|---------------|
 | 1 | [IEEE](https://ieeexplore.ieee.org/document/9368922) |
 | 2 | [Research Gate](https://www.researchgate.net/publication/349142254_DATA_EXPLORATORY_ON_TAXI_DATA_IN_NEW_YORK_CITY) |
-| 3 | [Research Paper](https://iopscience.iop.org/article/10.1088/1757-899X/1119/1/012013/pdf) |
+| 3 | [IOP](https://iopscience.iop.org/article/10.1088/1757-899X/1119/1/012013/pdf) |
   
 <br/>
     
@@ -53,9 +53,7 @@
 
 | Name           | Link |
 |----------------|---------------|
-|  Kaggle   | [Dataset](https://www.kaggle.com/brllrb/uber-and-lyft-dataset-boston-ma) |
-|  Kaggle   | [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/download) |
-|  Kaggle   | [Kaggle](https://www.kaggle.com/mohamed08/exploratory-data-analysis-for-uber-trips/data) |
+|  Kaggle   | [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/) |
   
 <br/>
   
