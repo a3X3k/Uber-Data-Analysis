@@ -41,7 +41,7 @@
 | 9 | [GitHub](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
 | 10 | [ CodeSpeedy](https://www.codespeedy.com/analyse-uber-data-in-python-using-machine-learning/) |
 | 11 | [Medium - hafsa](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
-| 12 | [Github - hafsa}(https://github.com/hafsa636/Uber-Data-Analysis-) |
+| 12 | [Github - hafsa](https://github.com/hafsa636/Uber-Data-Analysis-) |
   
   <br/>
   
