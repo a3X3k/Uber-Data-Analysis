@@ -59,7 +59,7 @@
   
 ## :x: :heavy_check_mark: Progress :heavy_check_mark: :x: 
 
-| To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek | Bikash Chandra
+| To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|
 | Data | Find the Data for Report | 15/09/21 |  |:heavy_check_mark:  |  |  | 6 |
 
