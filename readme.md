@@ -46,6 +46,7 @@
 | 12 | [Code Speedy](https://www.codespeedy.com/analyse-uber-data-in-python-using-machine-learning/) |
 | 13 | [The Clever Programming](https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/) |
 | 14 | [Uber and Lyft - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/uber-and-lyft-cab-prices-data-analysis-and-visualization/) |
+| 15 | [Jovian.ai](https://jovian.ai/danish-alam26/data-analysis-uber-trips) |
 
   
   <br/>
@@ -64,7 +65,7 @@
 
 | To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | S Abhishek | Bikash Chandra
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|---------------
-| Data | Find the Data for Report | 15/09/21 |:heavy_check_mark:  |:heavy_check_mark:  |  |:heavy_check_mark:   |  | 6 |
+| Data | Find the Data for Report | 15/09/21 |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:   |  | 6 |
 
   
 </div>
