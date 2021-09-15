@@ -40,6 +40,7 @@
 | 8 | [Medium](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) |
 | 9 | [GitHub](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
 | 10 | [ CodeSpeedy](https://www.codespeedy.com/analyse-uber-data-in-python-using-machine-learning/) |
+| 11 | [Medium - hafsa](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
   
   <br/>
   
