@@ -31,8 +31,6 @@
 |----------------|---------------|
 | 1 | [R Implementation](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
 | 2 | [R + Python](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
-| 3 | [Word Press](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
-| 4 | [Code 1](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) |
 | 8 | [Medium 1](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) |
 | 9 | [Medium 2](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
 | 10 | [Github 1](https://github.com/hafsa636/Uber-Data-Analysis-) |
@@ -52,7 +50,7 @@
 
 |      Code      | Report |
 |----------------|---------------|
-|  | []() |
+| [25 Graphs](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) | [Report](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
 |  | []() |
 |  | []() |
   
