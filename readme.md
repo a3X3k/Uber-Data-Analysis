@@ -43,7 +43,7 @@
 | 11 | [Medium - hafsa](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
 | 12 | [Github - hafsa](https://github.com/hafsa636/Uber-Data-Analysis-) |
 | 13 | [The Clever Prog](https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/) |
-| 14 | [R Project](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
+
   
   <br/>
   
