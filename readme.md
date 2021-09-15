@@ -38,13 +38,13 @@
 | 5 | [Code 2](https://github.com/prashantwitty/Uber-Trip-Data-Analysis) |
 | 6 | [Code 3](https://github.com/VismayTandel/UberDataAnalysis) |
 | 7 | [Code 4](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
-| 8 | [Medium](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) |
-| 9 | [GitHub](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
-| 10 | [ CodeSpeedy](https://www.codespeedy.com/analyse-uber-data-in-python-using-machine-learning/) |
-| 11 | [Medium - hafsa](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
-| 12 | [Github - hafsa](https://github.com/hafsa636/Uber-Data-Analysis-) |
-| 13 | [The Clever Prog](https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/) |
-| 14 | [Uber and Lyft](https://www.analyticsvidhya.com/blog/2021/06/uber-and-lyft-cab-prices-data-analysis-and-visualization/) |
+| 8 | [Medium 1](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) |
+| 9 | [Medium 2](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
+| 10 | [Github 1](https://github.com/hafsa636/Uber-Data-Analysis-) |
+| 11 | [GitHub 2](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
+| 12 | [Code Speedy](https://www.codespeedy.com/analyse-uber-data-in-python-using-machine-learning/) |
+| 13 | [The Clever Programming](https://thecleverprogrammer.com/2021/04/21/uber-trips-analysis-using-python/) |
+| 14 | [Uber and Lyft - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/06/uber-and-lyft-cab-prices-data-analysis-and-visualization/) |
 
   
   <br/>
