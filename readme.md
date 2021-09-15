@@ -74,34 +74,31 @@
 
 <br/>
 
-## ABSTRACT
+## Abstract
 
 
 
 <br/>
 
-## INTRODUCTION
+## Introduction
 
 
 
 <br/>
 
-## MOTIVATION and Objectives
+## Motivation and Objectives
 
 
 
 
 <br/>
 
-## STUDY SYSTEM
+## Study System
 
 
 
 <br/>
 
-## CONCLUSION
+## Conclusion
 
 
-
-
-<br/>
