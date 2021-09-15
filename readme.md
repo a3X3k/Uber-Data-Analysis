@@ -39,6 +39,7 @@
 | 7 | [Code 4](https://github.com/CrimsonSaber/Uber-DataAnalysis/) |   
 | 8 | [Medium](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) |
 | 9 | [GitHub](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
+| 10 | [ CodeSpeedy](https://www.codespeedy.com/analyse-uber-data-in-python-using-machine-learning/) |
   
   <br/>
   
@@ -54,7 +55,7 @@
 
 | To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | Abhishek |
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|
-| Data | Find the Data for Report | 14/09/21 |  |  |  |  | 6 |
+| Data | Find the Data for Report | 14/09/21 |  |:heavy_check_mark:  |  |  | 6 |
 
   
 </div>
