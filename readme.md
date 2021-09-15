@@ -17,7 +17,7 @@
   
 ## Report Reference Links
 
-| Name           | Link |
+| SI          | Link |
 |----------------|---------------|
 | 1 | [IEEE](https://ieeexplore.ieee.org/document/9368922) |
 | 2 | [Research Gate](https://www.researchgate.net/publication/349142254_DATA_EXPLORATORY_ON_TAXI_DATA_IN_NEW_YORK_CITY) |
