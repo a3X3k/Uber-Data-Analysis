@@ -63,12 +63,12 @@
   
 ## Phase 1 Progress
 
-| Topic           | Name |
-|----------------|---------------|
-| Abstract | Navneet |
-| Introduction | Harsha |
-| Motivations and Objectives  |  S Abhishek |
-| Study Systems and Conclusion | Bikash |
+| Topic           | Name | Status | 
+|----------------|---------------|---------------|
+| Abstract | Navneet |  |
+| Introduction | Harsha | |
+| Motivations and Objectives  |  S Abhishek | ✔️ |
+| Study Systems and Conclusion | Bikash | |
 
 </div>
 
