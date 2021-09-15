@@ -19,9 +19,6 @@
 
 | Name           | Link |
 |----------------|---------------|
-| 1 | [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city) |
-| 2 | [Kaggle](https://www.kaggle.com/aditisaxena20/exploratory-analysis-on-uber-pickups) |
-| 3 | [Kaggle](https://www.kaggle.com/dotman/data-exploration-and-visualization) |
 | 4 | [IEEE](https://ieeexplore.ieee.org/document/9368922) |
 | 5 | [Research Gate](https://www.researchgate.net/publication/349142254_DATA_EXPLORATORY_ON_TAXI_DATA_IN_NEW_YORK_CITY) |
 
