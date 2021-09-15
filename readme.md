@@ -59,7 +59,17 @@
 |----------------|---------------|---------------|----------------|---------------|---------------|---------------|---------------
 | Data | Find the Data for Report | 15/09/21 |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:   |:heavy_check_mark:   | 6 |
 
+<br/>
   
+## Data Set Links
+
+| Topic           | Name |
+|----------------|---------------|
+| Abstract | Navneet |
+| Introduction | Harsha |
+| Motivations and Objectives  |  S Abhishek |
+| Study Systems and Conclusion - | Bikash |
+
 </div>
 
 
