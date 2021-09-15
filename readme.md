@@ -61,14 +61,14 @@
 
 <br/>
   
-## Data Set Links
+## Phase 1 Progress
 
 | Topic           | Name |
 |----------------|---------------|
 | Abstract | Navneet |
 | Introduction | Harsha |
 | Motivations and Objectives  |  S Abhishek |
-| Study Systems and Conclusion - | Bikash |
+| Study Systems and Conclusion | Bikash |
 
 </div>
 
