@@ -31,7 +31,7 @@
 |----------------|---------------|
 | 1 | Data Flair](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
 | 2 | [R + Python](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
-| 3 | [Youtube(Uber Trip Analysis)](https://www.youtube.com/watch?v=tdhGqnBD2PU) |
+| 3 | [Youtube Uber Trip Analysis](https://www.youtube.com/watch?v=tdhGqnBD2PU) |
   
   
   <br/>
