@@ -27,7 +27,7 @@
     
 ## Code Reference Links
 
-| Name           | Link |
+| SI          | Link |
 |----------------|---------------|
 | 1 | [Data Flair](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
 | 2 | [R + Python](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
