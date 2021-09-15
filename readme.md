@@ -66,7 +66,7 @@
 | Topic           | Name | Status | 
 |----------------|---------------|---------------|
 | Abstract | Navneet |  |
-| Introduction | Harsha | |
+| Introduction | Harsha |:heavy_check_mark: |
 | Motivations and Objectives  |  S Abhishek | |
 | Study Systems and Conclusion | Bikash | |
 
