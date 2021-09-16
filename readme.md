@@ -67,7 +67,7 @@
 |----------------|---------------|---------------|
 | Abstract | Navneet |  |
 | Introduction | Harsha |:heavy_check_mark: |
-| Motivations and Objectives  |  S Abhishek | |
+| Motivations and Objectives  |  S Abhishek | :heavy_check_mark: |
 | Study Systems and Conclusion | Bikash | |
 
 </div>
