@@ -1,17 +1,6 @@
 <div align = "center">
 
 # [Exploratory Data Analysis on Uber Pickups](#)
-
-### Team Members
-
-| Name           |
-|----------------|
-| Harsha Sathish   |
-| Navneet Kumar    |
-| Arvind Kumar    | 
-| S Abhishek   |
-| Bikash Chandra |
-  
   
 <br/>
   
