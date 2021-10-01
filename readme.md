@@ -74,5 +74,8 @@
 
 <br/>
 
-<a href="https://github.com/a3X3k/Uber-Data-Analysis/graphs/contributors"></a>
-
+<a href="https://github.com/a3X3k/Uber-Data-Analysis/graphs/contributors">
+  
+  <img src="https://contrib.rocks/image?repo=a3X3k/Uber-Data-Analysis" />
+  
+</a>
