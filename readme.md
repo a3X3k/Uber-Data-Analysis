@@ -2,8 +2,6 @@
 
 # [Exploratory Data Analysis on Uber Pickups](#)
   
-<br/>
-  
 ## Report Reference Links
 
 | SI          | Link |
