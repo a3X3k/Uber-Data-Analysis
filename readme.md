@@ -27,8 +27,8 @@
 
 |      Code      | Report |
 |----------------|---------------|
-| [1](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) | [Report](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
-| [2](https://github.com/hafsa636/Uber-Data-Analysis-/blob/master/Uber_Data_Analysis.ipynb) | [Report](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
+| [Code](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) | [Report](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
+| [Code](https://github.com/hafsa636/Uber-Data-Analysis-/blob/master/Uber_Data_Analysis.ipynb) | [Report](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
   
   <br/>
   
