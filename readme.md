@@ -18,12 +18,12 @@
 |----------------|---------------|
 | 1 | [Data Flair](https://data-flair.training/blogs/r-data-science-project-uber-data-analysis/) |
 | 2 | [R + Python](https://github.com/MachineLearningWithHuman/Projects/tree/master/Project%20UBER) |
-| 3 | [Monthly Uber Trip Analysis](https://www.youtube.com/watch?v=tdhGqnBD2PU) |
+| 3 | [Monthly Uber Trip Analysis](https://github.com/rajkrishna92/Machine-Leaning-projects-for-beginners/blob/main/15_Uber%20Trips%20Analysis.ipynb) - [YouTube](https://www.youtube.com/watch?v=tdhGqnBD2PU)  | 
 | 4 | [Ploty Graph](https://github.com/plotly/datasets)
   
   <br/>
     
-## Code Reference Links
+## Report Reference Links
 
 |      Code      | Report |
 |----------------|---------------|
