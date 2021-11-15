@@ -30,7 +30,7 @@
 |----------------|---------------|
 | [Code](https://github.com/geoninja/Uber-Data-Analysis/blob/master/NYC_Uber_Rides.ipynb) | [Report](https://aboutdatascience.wordpress.com/2017/04/04/comprehensive-analysis-of-uber-dataset/) |
 | [Code](https://github.com/hafsa636/Uber-Data-Analysis-/blob/master/Uber_Data_Analysis.ipynb) | [Report](https://medium.com/@hafsabatul.cse/uber-data-analysis-fee3eded7c56) |
-  
+| Main |  [Report + Code](https://medium.com/analytics-vidhya/exploratory-data-analysis-of-uber-pickups-in-nyc-from-april-to-september-2014-ec78d5a35f78) | 
   <br/>
   
 ## Data Set Links
