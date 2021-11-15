@@ -40,27 +40,6 @@
 |  Kaggle   | [Kaggle](https://www.kaggle.com/fivethirtyeight/uber-pickups-in-new-york-city/) |
   
 <br/>
-  
-## :x: :heavy_check_mark: Progress :heavy_check_mark: :x: 
-
-| To Do           | Brief | Deadline | Arvind Kumar | Harsha Sathish | Navneet Kumar  | S Abhishek | Bikash Chandra
-|----------------|---------------|---------------|----------------|---------------|---------------|---------------|---------------
-| Data | Find the Data for Report | 15/09/21 |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:  |:heavy_check_mark:   |:heavy_check_mark:   | 6 |
-
-<br/>
-  
-## [Phase 1 Progress](https://amritauniv-my.sharepoint.com/:w:/g/personal/sabhishek_am_students_amrita_edu/EXAQayqtHxdCgkz7h_wUTz0BX_Pu21z2WLcWFiXlzHbmkA?e=QYjUcC)
-
-| Topic           | Name | Status | 
-|----------------|---------------|---------------|
-| Abstract | Navneet |  |
-| Introduction | Harsha |:heavy_check_mark: |
-| Motivations and Objectives  |  S Abhishek | :heavy_check_mark: |
-| Study Systems and Conclusion | Bikash | |
-
-</div>
-
-<br/>
 
 <div align = "center">
 
