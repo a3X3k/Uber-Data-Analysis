@@ -15,7 +15,8 @@
 | 1 | [About](#About)  |
 | 2 | [Setup](#setup)  | 
 | 3 | [Libraries](#Libraries) |
-| 4 | [Contributors](#Contributors) | 
+| 4 | [Data Set](#Data Set) |
+| 5 | [Contributors](#Contributors) | 
 
 </div>
 
@@ -95,7 +96,7 @@ pip3 install https://github.com/matplotlib/basemap/archive/master.zip
 
 <div align = "center">
     
-## Data Set Links
+## Data Set
 
 | Name           | Link |
 |----------------|---------------|
