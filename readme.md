@@ -19,6 +19,9 @@
 │   ├── Sep.csv
 │   ├── Uber - 2016.csv
 │
+├── Report
+│   ├── Report.pdf
+│
 └── Plotty.html
 │ 
 └── Index.html  
