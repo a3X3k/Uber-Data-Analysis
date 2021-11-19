@@ -39,8 +39,6 @@
 │   ├── Sep.csv
 │   ├── Uber - 2016.csv
 │
-└── Plotty.html
-│ 
 └── Index.html  
 │ 
 └── README.md
