@@ -15,7 +15,7 @@
 | 1 | [About](#About)  |
 | 2 | [Setup](#setup)  | 
 | 3 | [Libraries](#Libraries) |
-| 4 | [Members](#Members) | 
+| 4 | [Contributors](#Members) | 
 
 </div>
 
