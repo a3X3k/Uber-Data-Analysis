@@ -6,8 +6,6 @@
   
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-</div>
-
 ## Table of Contents
 
 </br>
@@ -18,6 +16,8 @@
 | 2 | [Setup](#setup)  | 
 | 3 | [Libraries](#Libraries) |
 | 4 | [Members](#Members) | 
+
+</div>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
