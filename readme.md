@@ -11,6 +11,12 @@
 ## Directory Structure
 
 ```js
+├── Source
+│   ├── FDS.ipynb
+|
+├── Report
+│   ├── Report.pdf
+│
 ├── Data Set
 │   ├── Apr.csv
 │   ├── May.csv
@@ -18,9 +24,6 @@
 │   ├── Jul.csv
 │   ├── Sep.csv
 │   ├── Uber - 2016.csv
-│
-├── Report
-│   ├── Report.pdf
 │
 └── Plotty.html
 │ 
