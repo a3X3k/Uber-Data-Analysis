@@ -3,7 +3,8 @@
 # [Exploratory Data Analysis on Uber Pickups](#)
   
 <br/>
-  
+
+</div>
   
 ## Directory Structure
 
