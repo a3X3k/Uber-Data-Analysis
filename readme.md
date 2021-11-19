@@ -33,15 +33,8 @@
   
 ## About
 
-- Taxis are essential, and taxi-related information can provide ground-breaking insight into different facets of city life, from economic activity and human behavior to mobility trends.  
-- Taxi data involves geographical components as well as several variables associated with each ride. 
-- Data insight is gain through data pre-processing, feature engineering and data exploratory analysis. 
-- This transformation of raw data will enable us to have the meaningful insight into the data and understand the mobility pattern of New York City. 
-- The primary methodology behind this study is to analyze and find the accuracy of the most frequent category of trip among all trips taken by a customer in a region using data analysis. 
-- Uber Data Analysis task permits us to recognize the complicated factual visualization of this large organization. 
-- We will be using ‘Python’ programming language. Here we analyze the Daily, Monthly and Yearly Uber Pickups in New York City. 
-- This mission is primarily based on Data Visualization that will give us information towards use of ggplot2 library for perception of the data. 
-- There are many questions that can be answered but here we will be focusing on, 
+- Taxis are essential, and taxi-related information can provide ground-breaking insight into different facets of city life, from economic activity and human behavior to mobility trends. Taxi data involves geographical components as well as several variables associated with each ride. Data insight is gain through data pre-processing, feature engineering and data exploratory analysis. This transformation of raw data will enable us to have the meaningful insight into the data and understand the mobility pattern of New York City. 
+- The primary methodology behind this study is to analyze and find the accuracy of the most frequent category of trip among all trips taken by a customer in a region using data analysis. Uber Data Analysis task permits us to recognize the complicated factual visualization of this large organization. We will be using ‘Python’ programming language. Here we analyze the Daily, Monthly and Yearly Uber Pickups in New York City. There are many questions that can be answered but here we will be focusing on, 
 
 	* Uber Pickups and distribution in NYC
 	* Time when Uber pickups happen regularly.
