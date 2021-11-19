@@ -10,8 +10,7 @@
   
 ## Directory Structure
 
-```
-│ 
+```py
 ├── Data Set
 │   ├── Apr.csv
 │   ├── May.csv
