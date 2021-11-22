@@ -65,7 +65,7 @@
 
 - To run this project, install and setup the following Libraries,
 
-```py      
+```js      
 !pip install numpy
 !pip install scipy
 !pip install matplotlib
@@ -111,6 +111,31 @@
 
 <div align = "center">
 	
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+	
+## Images
+
+</br>
+<img src="https://user-images.githubusercontent.com/52845731/142868580-35b30aa9-b5fc-473a-acf5-1fac80d3d3e0.png" alt="drawing" width="790"/>
+</br>
+
+</br>
+<img src="https://user-images.githubusercontent.com/52845731/142868633-7de7ceff-be7b-4fcd-b6df-5d0b29f1d5e1.png" alt="drawing" width="800"/>
+</br>
+
+</br>
+<img src="https://user-images.githubusercontent.com/52845731/142868663-c5e7306e-3e4e-4057-bf98-6576525bb2c8.png" alt="drawing" width="800"/>
+</br>
+
+</br>
+<img src="https://user-images.githubusercontent.com/52845731/142868694-37c9cfa9-c67e-4a21-8c65-90a8350dde44.png" alt="drawing" width="800"/>
+</br>
+
+</br>
+<img src="https://user-images.githubusercontent.com/52845731/142868770-78f612f3-3d56-454c-aea2-9cff50cfb7ab.png" alt="drawing" width="830"/>
+</br>
+</br>
+
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## Contributors
