@@ -25,12 +25,6 @@
 ## Directory Structure
 
 ```js
-├── Source
-│   ├── FDS.ipynb
-|
-├── Report
-│   ├── Report.pdf
-│
 ├── Data Set
 │   ├── Apr.csv
 │   ├── May.csv
@@ -38,8 +32,6 @@
 │   ├── Jul.csv
 │   ├── Sep.csv
 │   ├── Uber - 2016.csv
-│
-└── Index.html  
 │ 
 └── README.md
 ```
@@ -119,6 +111,9 @@
   
 | [Harsha Sathish](https://github.com/hxrshx)| [Navneet Kumar Singh](https://github.com/navneet555k) |
 |----------------|----------------|
-</div>
 
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
+
+## For Project Code and Report feel free to Mail me!
+	
+</div>
